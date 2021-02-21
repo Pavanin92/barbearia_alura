@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+}
+
+#banner {
+    width: 100%;
+}
+
+.titulo-principal {
+    font-family: 'Nunito';
+    text-transform: uppercase;
+}
+
+header {
+    background-color: #BBBBBB;
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    justify-content: space-between;
+    vertical-align: top;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 10px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    font-family: 'Nunito';
+}
+
+nav a:hover {
+    color: #d85012;
+    text-decoration: underline;
+}
+
+.principal {
+    background-color: #CCCCCC;
+    padding: 30px;
+    font-size: 20px;
+    font-family: 'Nunito';
+}
+
+.titulo-centralizado {
+    text-align: center;
+    font-size: 20px;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+em strong {
+    color: #FF0000;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background-color: #FFFFFF;
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Nunito';
+}
+
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    font-size: 20px;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
