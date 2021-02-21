@@ -95,7 +95,7 @@ footer {
 }
 
 form {
-    margin: 40px 0;
+    margin: 40px 25px;
 }
 
 form label, form legend {
@@ -130,7 +130,7 @@ form label, form legend {
 
 .enviar:hover {
     background: #f86712;
-    transform: scale(1.2);
+    transform: scale(1.05);
 }
 
 table {
